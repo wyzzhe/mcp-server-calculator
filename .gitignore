@@ -38,9 +38,6 @@ debug
 # 覆盖文件
 *.out
 
-# 依赖锁定文件
-go.sum
-
 # 本地开发配置文件
 local.*
 
@@ -50,7 +47,3 @@ local.*
 # 操作系统生成文件
 .DS_Store
 Thumbs.db
-
-# 模块目录 (Go 1.11+)
-/go.mod
-/go.sum
